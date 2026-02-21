@@ -4,6 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
+<!--
 <table border="1" style="width: 100%; text-align: center;">
     <tr>
         <th>Date</th>
@@ -172,10 +173,10 @@ permalink: /syllabus/
   * Total Points: 22 points
 
 # Academic Dishonsty Policy
-Any student involved in cheating (provider or receiver) will receive a failing grade along with a report to the University Discipline office. If you don't have the time to help your friend, do not provide them with the answer. You will fail the course! Never, ever show your code or homework to anyone. 
+Any student involved in cheating (provider or receiver) will receive a failing grade along with a report to the University Discipline office. If you don't have the time to help your friend, do not provide them with the answer. You will fail the course! Never, ever show your code or homework to anyone.
 
 # Exams
-Quizzes will be held as the following table on **15:00** for ten minutes. 
+Quizzes will be held as the following table on **15:00** for ten minutes.
 
 <table border="1" style="width: 100%; text-align: center;">
   <tr>
@@ -250,7 +251,8 @@ Workshops for practical assignments will be in short videos, released on the sam
     <td>1404/03/19</td>
     <td>Final</td>
   </tr>
-</table>
+</table> -->
 
 # Site
+
 You can find all resources and announsments of course on sut-ce-courses.github.io/database

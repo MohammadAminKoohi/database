@@ -4,16 +4,16 @@ course_description: "This course delves into the principles of database manageme
 course_semester: "Spring 2026"
 
 baseurl: "/database" # the subpath of your site, e.g. /blog/
-url: "http://sut-ce-courses-db.github.io/" # the base hostname & protocol for your site
+url: "http://Database-Spring-2026.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Sharif University of Technology"
 schoolurl: "https://sharif.edu"
 twitter_username: #
 
 address: |
-    Computer Engineering Department
-    Sharif University of Technology
-    Tehran
+  Computer Engineering Department
+  Sharif University of Technology
+  Tehran
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
@@ -27,27 +27,25 @@ markdown: kramdown
 permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
-include: ['_images', '_css']
-exclude: ['develop']
+include: ["_images", "_css"]
+exclude: ["develop"]
 
 dateformat: "%Y/%m/%d"
 
 future: true
 collections:
-    events:
-        output: true
-    lectures:
-        output: true
-    assignments:
-        output: true
-    announcements:
-        output: false
-    taclass:
-        output: true
-    exams:
-        output: true
-
-    
+  events:
+    output: true
+  lectures:
+    output: true
+  assignments:
+    output: true
+  announcements:
+    output: false
+  taclass:
+    output: true
+  exams:
+    output: true
 
 defaults:
   - scope:
